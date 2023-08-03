@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Maria Franco<br>
 👀 I’m interested in front-end development, engaging user experiences and becoming a better problem solver<br>
-👩‍🎓 I have a bachelor degree in Systems and Computing Engineering as well as in Electronics Engineering <br>
+👩‍🎓 I have a bachelor's degree in Systems and Computing Engineering as well as in Electronics Engineering <br>
 🌱 I’m currently learning Rendering Patterns<br>
 🧑‍🤝‍🧑 I’m looking to collaborate on development projects<br>
 🔨 I’m currently developing a trip planner personal project<br>
