@@ -1,10 +1,28 @@
-# 💫 About Me:
-👋 Hi, I’m Maria Franco<br>
-👀 I’m interested in front-end development, engaging user experiences and becoming a better problem solver<br>
-👩‍🎓 I have a bachelor's degree in Systems and Computing Engineering as well as in Electronics Engineering <br>
-🌱 I’m currently learning Rendering Patterns<br>
-🧑‍🤝‍🧑 I’m looking to collaborate on development projects<br>
-🎎 I'm interested in japanese language and culture
+# 💫 About Me
+
+## 🇬🇧 English
+
+👋 Hi, I’m **Maria Franco**, a Software Engineer from Colombia currently based in Japan 🇨🇴🇯🇵  
+💻 I specialize in **front-end development**, with professional experience building web applications using **React and TypeScript** in international teams  
+🎓 I hold dual bachelor’s degrees in **Systems & Computing Engineering** and **Electronics Engineering**  
+📚 I’m currently pursuing a **Master’s in Informatics at the University of Tsukuba** as a **MEXT Scholar**  
+🔬 My research focuses on **Kansei Engineering, User Experience (UX), and User-Centered Web Design**  
+✨ I’m passionate about building intuitive and engaging digital experiences and continuously growing as an engineer and problem solver  
+🌏 I enjoy working in multicultural environments and collaborating with people from diverse backgrounds  
+🗣️ **Spanish:** Native · **English:** Fluent (TOEIC 990) · **Japanese:** JLPT N2  
+
+---
+
+## 🇯🇵 日本語
+
+👋 コロンビア出身、日本在住の**ソフトウェアエンジニア、Maria Franco**です 🇨🇴🇯🇵  
+💻 **フロントエンド開発**を中心に、**React・TypeScript**を用いたWebアプリケーション開発の実務経験があり、国際的なチームでの開発にも携わってきました  
+🎓 **システム・コンピューティング工学**および**電子工学**の2つの学士号を取得しています  
+📚 現在、**文部科学省（MEXT）奨学生**として、**筑波大学大学院 情報学学位プログラム**の修士課程に在籍しています  
+🔬 **感性工学（Kansei Engineering）、UX、ユーザー中心のWebデザイン**をテーマに研究しています  
+✨ 直感的で魅力的なデジタル体験をつくることに関心があり、エンジニアとして常に学び、成長することを大切にしています  
+🌏 多文化・国際的な環境で、さまざまなバックグラウンドを持つ人と協働することが好きです  
+🗣️ **スペイン語:** ネイティブ · **英語:** TOEIC 990 · **日本語:** JLPT N2
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariapfranco/) 
