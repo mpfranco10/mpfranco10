@@ -76,6 +76,6 @@ My research focuses on **Kansei Engineering, User Experience (UX), and User-Cent
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpfranco10&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Contribution Activity
 
-[![Maria's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mpfranco10&theme=github-compact&hide_border=true)](https://github.com/mpfranco10)
+![](https://github-visitor-counter-tau.vercel.app/api?username=mpfranco10&displayMode=miniCounter&theme=dark)
+
